@@ -51,5 +51,5 @@ My research explores how sequencing technologies can be used to detect and chara
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
-# 💻 Internships
+# 💻 Outreach
 - *2023.09 - 2024.05*, [Lorem](https://github.com/), China.
