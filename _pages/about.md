@@ -17,8 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
+# About Me
 My research explores how sequencing technologies can be used to detect and characterize pathogens and other microorganisms in environmental samples. I focus on comparing sequencing methods for accuracy and developing approaches to recover complete viral genomes from complex environments. More broadly, I am interested in combining genomic insights with microbial metabolism and gene-based strategies to better understand microbial presence and enhance their potential for mitigating water pollution.
+
+# 📖 Educations
+- *2024.08 - 2026.05 (now)*, Master of Science in Environmental Engineering, UC Berkeley. 
+- *2018.09 - 2022.06*, Bachelor of Science in Environmental Science, Tongji University. 
 
 
 
@@ -27,9 +31,6 @@ My research explores how sequencing technologies can be used to detect and chara
 - *2019.03* Outstanding Social Practice Team (Leader), Tongji University
 - *2018.08* Leadership Summer School for Outstanding Freshmen, Tongji University
 
-# 📖 Educations
-- *2024.08 - 2026.05 (now)*, Master of Science in Environmental Engineering, UC Berkeley. 
-- *2018.09 - 2022.06*, Bachelor of Science in Environmental Science, Tongji University. 
 
 
 # 💻 Internships
