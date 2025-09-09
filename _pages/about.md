@@ -21,6 +21,20 @@ redirect_from:
 My research explores how sequencing technologies can be used to detect and characterize pathogens and other microorganisms in environmental samples. I focus on comparing sequencing methods for accuracy and developing approaches to recover complete viral genomes from complex environments. More broadly, I am interested in combining genomic insights with microbial metabolism and gene-based strategies to better understand microbial presence and enhance their potential for mitigating water pollution.
 
 
+
+# 🎖 Honors and Awards
+- *2019.07* 3rd class Academic Scholarship, Tongji University. 
+- *2019.03* Outstanding Social Practice Team (Leader), Tongji University
+- *2018.08* Leadership Summer School for Outstanding Freshmen, Tongji University
+
+# 📖 Educations
+- *2024.08 - 2026.05 (now)*, Master of Science in Environmental Engineering, UC Berkeley. 
+- *2018.09 - 2022.06*, Bachelor of Science in Environmental Science, Tongji University. 
+
+
+# 💻 Internships
+- *2023.09 - 2024.05*, [Lorem](https://github.com/), China.
+
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -36,16 +50,3 @@ My research explores how sequencing technologies can be used to detect and chara
 </div>
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2019.07* 3rd class Academic Scholarship, Tongji University. 
-- *2019.03* Outstanding Social Practice Team (Leader), Tongji University
-- *2018.08* Leadership Summer School for Outstanding Freshmen, Tongji University
-
-# 📖 Educations
-- *2024.08 - 2026.05 (now)*, Master of Science in Environmental Engineering, UC Berkeley. 
-- *2018.09 - 2022.06*, Bachelor of Science in Environmental Science, Tongji University. 
-
-
-# 💻 Internships
-- *2023.09 - 2024.05*, [Lorem](https://github.com/), China.

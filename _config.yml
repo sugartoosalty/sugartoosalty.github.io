@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Hexuan Tang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/Avatar-lanyangyang.jpg"
   bio              : "University of California, Berkeley"
   location         : "Berkeley, CA"
   employer         :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/heuxan-t-806193237"
+  linkedin         : "www.linkedin.com/in/heuxantang"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
