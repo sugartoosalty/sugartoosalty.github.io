@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hexuan Tang"
-description              : "My research explores how sequencing technologies can be used to detect and characterize pathogens and other microorganisms in environmental samples. I focus on comparing sequencing methods for accuracy and developing approaches to recover complete viral genomes from complex environments. More broadly, I am interested in combining genomic insights with microbial metabolism and gene-based strategies to better understand microbial presence and enhance their potential for mitigating water pollution."
+description              : "Environmental Biotechnology | Waastewater-based Epidemiology"
 repository               : "sugartoosalty.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "www.linkedin.com/in/heuxan-t-806193237""
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :

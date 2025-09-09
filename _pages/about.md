@@ -18,12 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-My research interest includes Environmental Microbiology.
+My research explores how sequencing technologies can be used to detect and characterize pathogens and other microorganisms in environmental samples. I focus on comparing sequencing methods for accuracy and developing approaches to recover complete viral genomes from complex environments. More broadly, I am interested in combining genomic insights with microbial metabolism and gene-based strategies to better understand microbial presence and enhance their potential for mitigating water pollution.
 
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
@@ -48,7 +44,7 @@ My research interest includes Environmental Microbiology.
 
 # 📖 Educations
 - *2024.08 - 2026.05 (now)*, Master of Science in Environmental Engineering, UC Berkeley. 
-- *2015.09 - 2019.06*, Bachelor of Science in Environmental Science, Tongji University. 
+- *2018.09 - 2022.06*, Bachelor of Science in Environmental Science, Tongji University. 
 
 
 # 💻 Internships
