@@ -17,6 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# Warning: this is only an unfinished websites! tempelates from RayeRen
+
+
 # About Me
 My research explores how sequencing technologies can be used to detect and characterize pathogens and other microorganisms in environmental samples. I focus on comparing sequencing methods for accuracy and developing approaches to recover complete viral genomes from complex environments. More broadly, I am interested in combining genomic insights with microbial metabolism and gene-based strategies to better understand microbial presence and enhance their potential for mitigating water pollution.
 
